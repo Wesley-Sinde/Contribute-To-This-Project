@@ -1,5 +1,56 @@
 # [Contribute To This Project](https://syknapse.github.io/Contribute-To-This-Project/)
 
+
+<h1 align="center">Hi 👋, I'm Wesley Sinde</h1>
+<h3 align="center">A passionate full stacks web developer from Nairobi, Kenya. I am a full-time Laravel developer.</h3>
+
+
+
+
+<p align="center"> 
+  <a href="https://wesley.io.ke/" target="blank">
+  <img align="center" src="https://wesley.io.ke/Myimages/mypromo1.jpg" alt="Wesley" height="220"/>
+  </a>
+</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-sinde&label=Profile%20views&color=0e75b6&style=flat" alt="wesley-sinde" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesley-sinde" alt="wesley-sinde" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sindewesley" target="blank"><img src="https://img.shields.io/twitter/follow/sindewesley?logo=twitter&style=for-the-badge" alt="sindewesley" /></a> </p>
+
+- 🌱 I’m currently learning React native. **React, Vue**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Wesley-Sinde](https://github.com/Wesley-Sinde)
+
+- 📝 I regularly write articles on [https://www.wesley.io.ke/](https://www.wesley.io.ke/)
+
+- 💬 Ask me about **React, Laravel, Php and Cpp**
+
+- 📫 How to reach me **sindewesley5@gmail.com**
+
+- 📄 Know about my experiences [https://www.wesley.io.ke/](https://www.wesley.io.ke/)
+
+- ⚡ A character I have always wanted to meet.. **We’d all like to have coffee with Elon Musk and Mrs. Mark Zuckerberg**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/wesley-sinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wesley-sinde" height="30" width="40" /></a>
+<a href="https://twitter.com/sindewesley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sindewesley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wesley sinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley sinde" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/wesley-sinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wesley-sinde" height="30" width="40" /></a>
+<a href="https://fb.com/wesley sinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wesley sinde" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://m.youtube.com/channel/ucqgjkmz6haifq-gihfwqifq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/channel/ucqgjkmz6haifq-gihfwqifq" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/wesley_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wesley_001" height="30" width="40" /></a>
+</p>
+
+
+
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
 
 > **Announcement:** Would you like to become a maintainer on this project and help keeping it going? If you are interested send me a DM on [Twitter](https://twitter.com/Syknapse) and read the [maintainer's guide](maintainer_guide.md).
